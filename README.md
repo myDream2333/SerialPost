@@ -48,7 +48,7 @@ SerialPost 是一个winform串口调试工具，可能也是个串口通讯工�
 ------
 
 
- DEMO
+DEMO
 ------
 
  历史版本
