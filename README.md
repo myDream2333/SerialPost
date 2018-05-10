@@ -14,7 +14,6 @@ SerialPost 是一个winform串口调试工具，可能也是个串口通讯工�
 
 * [功能描述](#功能描述)
 * [开发环境](#开发环境)
-* [项目结构简介](#项目结构简介)
 * [测试](#测试)
 * [历史版本](#历史版本) 
 
@@ -43,10 +42,6 @@ SerialPost 是一个winform串口调试工具，可能也是个串口通讯工�
 |1|[VS2017](https://www.visualstudio.com/zh-hans/vs/whatsnew/?rr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DpOKgx2kdVHSngG_MdFU9wMzQ5X-iAi9yyJhlD5Dbi73mxICloAXiobrb_3Cmc5szrj-8MSv0Yq8SqNQlYsjZEq%26wd%3D%26eqid%3Dc1a7bf6d00025833000000065af2bc3e)|[Microsoft.NET Framework 4.5.2 ](https://www.microsoft.com/en-us/download/details.aspx?id=42642)
 
   
-
-****
- 项目结构简介
-------
 
 ****
  测试
